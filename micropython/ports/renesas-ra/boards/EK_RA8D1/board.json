@@ -1,0 +1,19 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [
+        "ek_ra6m2_board.jpg",
+        "ek_ra6m2_j1_pins.jpg",
+        "ek_ra6m2_j2_pins.jpg",
+        "ek_ra6m2_j3_pins.jpg",
+        "ek_ra6m2_j4_pins.jpg"
+    ],
+    "mcu": "ra8d1",
+    "product": "EK-RA8D1",
+    "thumbnail": "",
+    "url": "https://www.renesas.com/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ek-ra8d1-evaluation-kit-ra8d1-mcu-group",
+    "vendor": "Renesas Electronics"
+}
